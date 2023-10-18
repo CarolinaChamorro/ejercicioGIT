@@ -1,2 +1,1 @@
-# tiptiEjemplo
-Ejemplo practico de clases
+Ejercicio de GIT
